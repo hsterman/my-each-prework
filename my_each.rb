@@ -1,3 +1,5 @@
-def my_each # put argument(s) here
+def my_each(argument)
+  collection = [1, 2, 3, 4]
+  my_each
   
 end
